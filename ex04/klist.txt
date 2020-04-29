@@ -1,0 +1,5 @@
+Credentials cache: API:D04291EE-F430-4EB5-85C1-6723D34CD70E
+        Principal: sscottie@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Apr 29 13:19:27 2020  Apr 29 23:19:21 2020  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
